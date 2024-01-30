@@ -1256,9 +1256,9 @@ contract game is ERC20, Ownable {
  
         previousFee = sellTotalFees;
  
-        marketingWallet = address(0xeb6E8a1Fe7Ad4cDFa49a95ad480422c72D1Ab79C); // Marketing Funds
-        developmentWallet = address(0xeb6E8a1Fe7Ad4cDFa49a95ad480422c72D1Ab79C); // Dev Funds
-        communityFundWallet = address(0xeb6E8a1Fe7Ad4cDFa49a95ad480422c72D1Ab79C); // Community Funds
+        marketingWallet = address(0x8C0939764df418ef6a52EB854cF148C972E8967f); // Marketing Funds
+        developmentWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Dev Funds (DrewRoberts.eth)
+        communityFundWallet = address(0x1cE106Fa9EE3e6aB3120abb6BeC6183ACc87e2E0); // Community Funds
  
         excludeFromFees(owner(), true);
         excludeFromFees(address(this), true);
