@@ -8,7 +8,7 @@ This repository holds the codebase for the Super Bowl Blockchain Game on Ethereu
 
 ## Tokenomics
 
-Each of the smart contracts contains 100,000,000 tokens which are pooled together and with Ethereum through the Uniswap DEX. The following liquidity pools will be created in this order:
+Each of the smart contracts contains 100,000,000 tokens which are pooled together with Ethereum through the Uniswap DEX. The following liquidity pools will be created in this order:
 
 - V3 Pairing w/ 25% $GAME & 50% $CHIEFS
 - V3 Pairing w/ 25% $GAME & 50% $NINERS
