@@ -6,6 +6,9 @@
  *
  *
    $CHIEFS
+   https://SuperBowlToken.games
+   https://t.me/SuperBowlBCGame
+   https://x.com/ChiefsToken
 
 
    Contract features:
