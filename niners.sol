@@ -8,7 +8,7 @@
    $NINERS
    https://SuperBowlToken.games
    https://t.me/SuperBowlBCGame
-   https://x.com/NinersToken
+   https://x.com/49ersToken
    
 
    Contract features:
