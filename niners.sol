@@ -1235,7 +1235,7 @@ contract niners is ERC20, Ownable {
         );
         _approve(address(this), address(uniswapV2Router), type(uint256).max);
  
-        uint256 totalSupply = 333_333_333 ether;
+        uint256 totalSupply = 100_000_000 ether;
  
         maxTransactionAmount = (totalSupply) / 100; // 1% of total supply (1,000,000 tokens)
         maxWallet = (totalSupply) / 50;  // 2% of total supply (2,000,000 tokens)
